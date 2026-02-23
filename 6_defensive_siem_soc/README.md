@@ -1,3 +1,3 @@
-# Threat Hunting
+# Defensive Security / SOC
 
-Projects focused on proactively searching for threats within systems and networks. Includes analysis of logs, detection of suspicious behavior, MITRE ATT&CK mapping and documentation of findings. Designed to improve proactive defense skills.
+This folder contains defensive security projects, including SIEM setup, log analysis, alert creation and monitoring simulations. Includes Splunk queries, ELK dashboards, Sigma rules, screenshots and incident response reports.
