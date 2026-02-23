@@ -1,3 +1,3 @@
-# Cloud Security
+# Threat Hunting
 
-Contains cloud security projects focused on AWS Free Tier environments. Includes configuration review, misconfiguration detection, IAM assessment, CloudTrail analysis and security reports. Goal is to detect, remediate and document cloud security risks.
+Projects focused on proactively searching for threats within systems and networks. Includes analysis of logs, detection of suspicious behavior, MITRE ATT&CK mapping and documentation of findings. Designed to improve proactive defense skills.
